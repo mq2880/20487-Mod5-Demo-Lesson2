@@ -1,0 +1,11 @@
+D:\20487C\Demo\20487-Mod5-Demo-Lesson2\HostInAzure\bin\Release\net5.0\publish\BlueYonder.Hotels.Service.exe
+D:\20487C\Demo\20487-Mod5-Demo-Lesson2\HostInAzure\bin\Release\net5.0\publish\appsettings.Development.json
+D:\20487C\Demo\20487-Mod5-Demo-Lesson2\HostInAzure\bin\Release\net5.0\publish\appsettings.json
+D:\20487C\Demo\20487-Mod5-Demo-Lesson2\HostInAzure\bin\Release\net5.0\publish\BlueYonder.Hotels.Service.dll
+D:\20487C\Demo\20487-Mod5-Demo-Lesson2\HostInAzure\bin\Release\net5.0\publish\BlueYonder.Hotels.Service.deps.json
+D:\20487C\Demo\20487-Mod5-Demo-Lesson2\HostInAzure\bin\Release\net5.0\publish\BlueYonder.Hotels.Service.runtimeconfig.json
+D:\20487C\Demo\20487-Mod5-Demo-Lesson2\HostInAzure\bin\Release\net5.0\publish\BlueYonder.Hotels.Service.pdb
+D:\20487C\Demo\20487-Mod5-Demo-Lesson2\HostInAzure\bin\Release\net5.0\publish\Microsoft.OpenApi.dll
+D:\20487C\Demo\20487-Mod5-Demo-Lesson2\HostInAzure\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\20487C\Demo\20487-Mod5-Demo-Lesson2\HostInAzure\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\20487C\Demo\20487-Mod5-Demo-Lesson2\HostInAzure\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
